@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi 👋 I'm SpikePuppet
 
+Welcome to my GitHub repo. I have a passion for technology, and genuinely like to tinker. A lot of what you'll see here might be just half finished projects, but there's also some stuff I'll be proud off. I'll try to keep that on my pinned repos!
+
+I don't care at the moment about sticking to one thing, we have so much to try why not have some fun with it. Tech for techs sake doesn't make money, but god is it fun to play with!
 <!--
 **SpikePuppet/SpikePuppet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
