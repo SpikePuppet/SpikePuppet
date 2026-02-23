@@ -3,6 +3,12 @@
 Welcome to my GitHub repo. I have a passion for technology, and genuinely like to tinker. A lot of what you'll see here might be just half finished projects, but there's also some stuff I'll be proud off. I'll try to keep that on my pinned repos!
 
 I don't care at the moment about sticking to one thing, we have so much to try why not have some fun with it. Tech for techs sake doesn't make money, but god is it fun to play with!
+
+Some of my projects:
+
+🌱 [My blog - spikepuppet.io](https://github.com/SpikePuppet/spikepuppet-blog) - My personal blog, also live at spikepuppet.io
+🐍 [Snake Charmer](https://github.com/SpikePuppet/snake-charmer) - A viewer for the python documentation, to make the experience ✨ magical ✨. Can also get previous or new versions of docs with a single command! Live at snake-charmer.work!
+
 <!--
 **SpikePuppet/SpikePuppet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
