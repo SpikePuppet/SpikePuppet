@@ -7,6 +7,7 @@ I don't care at the moment about sticking to one thing, we have so much to try w
 Some of my projects:
 
 🌱 [My blog - spikepuppet.io](https://github.com/SpikePuppet/spikepuppet-blog) - My personal blog, also live at spikepuppet.io
+
 🐍 [Snake Charmer](https://github.com/SpikePuppet/snake-charmer) - A viewer for the python documentation, to make the experience ✨ magical ✨. Can also get previous or new versions of docs with a single command! Live at snake-charmer.work!
 
 <!--
