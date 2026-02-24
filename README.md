@@ -10,6 +10,7 @@ Some of my projects:
 
 🐍 [Snake Charmer](https://github.com/SpikePuppet/snake-charmer) - A viewer for the python documentation, to make the experience ✨ magical ✨. Can also get previous or new versions of docs with a single command! Live at [snake-charmer.work](snake-charmer.work)!
 
+🥋 [Exciting Smoke](https://github.com/SpikePuppet/entertaining-smoke) - A journal to track your Brazilian Jujitsu progress. [Live here](https://www.exciting-smoke.win/) but can only join by invite.
 <!--
 **SpikePuppet/SpikePuppet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
